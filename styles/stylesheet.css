@@ -1,0 +1,10 @@
+.global {
+    font-family: "Monaco", "Courier New", Courier, monospace;
+} 
+
+.messageField{
+    border: 1px solid black;
+    text-align: left;
+    margin: auto;
+    padding: 3px;
+}
